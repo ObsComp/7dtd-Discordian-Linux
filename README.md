@@ -1,5 +1,4 @@
 # 7dtd-Discordian-Linux
-A Discord bot for Linux OS that integrates in game chat and discord chat using ServerTools as a communication bridge
 
 A Discord bot designed to integrate with ServerTools server manager for 7 Days to Die dedicated servers.
 
