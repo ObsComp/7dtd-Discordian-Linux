@@ -24,7 +24,7 @@ STEP 1
 EXPLOSIONS!
 Just kidding.
 
-Make sure you are using version 19.5.3 or higher of ServerTools. If you are not, download and install the latest version at 
+Make sure you are using version 19.6.9 or higher of ServerTools. If you are not, download and install the latest version at 
 https://github.com/dmustanger/7dtd-ServerTools/releases
 
 Other features and tools from ServerTools do not need to be utilized if you do not wish to. It is required for
